@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15`
+- ![#f03c15] Megamutt `#f03c15`
 
 First, run the development server:
 
